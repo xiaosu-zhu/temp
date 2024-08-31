@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>Surge Generated CA CF5B5100.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDcjCCAlqgAwIBAgIQCmS2fZb4VQiE+OYumAX8mTANBgkqhkiG
+			9w0BAQsFADBMMSQwIgYDVQQKDBtTdXJnZSBHZW5lcmF0ZWQgQ0Eg
+			Q0Y1QjUxMDAxJDAiBgNVBAMMG1N1cmdlIEdlbmVyYXRlZCBDQSBD
+			RjVCNTEwMDAeFw0yMzA0MTMwNzAwMjRaFw0zMzA0MTAwNzAwMjRa
+			MEwxJDAiBgNVBAoMG1N1cmdlIEdlbmVyYXRlZCBDQSBDRjVCNTEw
+			MDEkMCIGA1UEAwwbU3VyZ2UgR2VuZXJhdGVkIENBIENGNUI1MTAw
+			MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAse15Tdc0
+			rjeLitvgeIMUfuxGJIo86IxN+reGOgDi0hDlckUcAXAH34nroX6Z
+			/qrvh8O+hkidsOrPO9gk+xaJE8ZVvctoCp11UdiiBTaye+8Bwozx
+			Ap4qAGPapxU7gSJTD4zU5J/fiILyi/bo5Krq9dg3d1enwRITsJ6x
+			ydufMH1a6IrSoIdl2lK60IAd4Z8yxzfY/+Rl/bbI5bTIT/VR5xXU
+			EO7qCvW5i8yCGCLnX2eYDHM1zxUebk6gJAVNiIJz9XqxAJIuaTal
+			6FlsUgeRKf7tS8CIZheYMAvhrV7zArJjINCCHY6I43qfsEqQYxj0
+			rJkodtY77JjsnGl/s2FMOQIDAQABo1AwTjAdBgNVHQ4EFgQUJ0Nj
+			UjUSBd99GGSCn7jbtpKSO6MwHwYDVR0jBBgwFoAUJ0NjUjUSBd99
+			GGSCn7jbtpKSO6MwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsF
+			AAOCAQEALU2fgDT28CjzfGfugI2KN5rDPJcOxN5CLK0SZ4nyxIKd
+			VuFtsEswSMD2k4AfkZTdl1UZWFyl+CS5z0UF1XlsF4D+JRPuC62S
+			H8jjQAAVzosBj0MHO6hh04PfrlZxn1AeRwTwAsk5YoW/hhoQqY2G
+			5ZYwc7Se1EfZ35C0b1a+KzYW8BBWZnHdTabs47w3XxCHDytGzDJD
+			fDt0Tf5hQOY2wZqz/STEtc8iEa3l/kpLAPlLURGMFt2ehpoBNT7z
+			l5LlZPHo9rNwQDZqTUFFw06J5M6laEmF5QtUdGBxfVjQQ+EuId9u
+			1DCNb0i4l2cC8G9d1Xgud9TSfgksWR2Jk9GIjQ==
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 CA 根证书</string>
+			<key>PayloadDisplayName</key>
+			<string>Surge Generated CA CF5B5100</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.39891682-32EA-45F5-9542-62F9118153DA</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>39891682-32EA-45F5-9542-62F9118153DA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Surge MITM</string>
+	<key>PayloadIdentifier</key>
+	<string>chengyayadeMacBook-Air.A90C541F-92A4-40FF-ACBC-517BE4A6AE3F</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C47B0A25-D933-4541-BC9F-2B2F47FFB6A5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
